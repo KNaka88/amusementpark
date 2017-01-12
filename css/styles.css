@@ -1,0 +1,26 @@
+#lessFiveFeet {
+  display: none;
+}
+#lessFiveFeet img{
+  width: 40%;
+}
+
+
+
+#fiveFeet {
+  display: none;
+}
+
+#fiveFeet img{
+  width: 40%;
+}
+
+
+#sevenFeet {
+  display: none;
+  width: 30%;
+}
+
+#sevenFeet img{
+  width: 40%;
+}
